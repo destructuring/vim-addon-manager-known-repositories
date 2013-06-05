@@ -1,0 +1,4 @@
+---
+remotes:
+  primary: git@github.com:destructuring/vim-addon-manager-known-repositories
+  secondary: git@bitbucket.org:destructuring/vim-addon-manager-known-repositories
