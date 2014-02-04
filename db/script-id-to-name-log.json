@@ -9512,6 +9512,7 @@
       "grsecurity3027"
    ],
    "3028" : [
+      "rename%3028",
       "rename"
    ],
    "3029" : [
@@ -14953,5 +14954,67 @@
    ],
    "4833" : [
       "vim-clojure-highlight"
+   ],
+   "4834" : [
+      "vimcaps"
+   ],
+   "4835" : [
+      "Textabyss"
+   ],
+   "4836" : [
+      "NERDTree_WGet"
+   ],
+   "4837" : [
+      "vim-bemhtml"
+   ],
+   "4838" : [
+      "counterpoint"
+   ],
+   "4839" : [
+      "writepath"
+   ],
+   "4840" : [
+      "rename%4840"
+   ],
+   "4841" : [
+      "JumpToVerticalOccurrence"
+   ],
+   "4842" : [
+      "InsertFromAround"
+   ],
+   "4843" : [
+      "CopySel"
+   ],
+   "4844" : [
+      "_poshcomplete-vim"
+   ],
+   "4845" : [
+      "Html_Template"
+   ],
+   "4846" : [
+      "TWMC_TabWin_Move_Commands",
+      "Tabcmd"
+   ],
+   "4847" : [
+      "phpspec"
+   ],
+   "4848" : [
+      "blockit"
+   ],
+   "4849" : [
+      "Enchanted_Vim",
+      "Echnchanted_Vim"
+   ],
+   "4850" : [
+      "vim-colors-pencil"
+   ],
+   "4851" : [
+      "grin"
+   ],
+   "4852" : [
+      "vawa"
+   ],
+   "4853" : [
+      "scd"
    ]
 }

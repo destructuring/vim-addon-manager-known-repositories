@@ -1,7 +1,7 @@
 " This file is the "patch" to modify the repository informations retrieved
 " from vim.sf.net
 " Most numbers represent vim-script numbers
-" See vamkr#PatchSources
+" See vimpi#PatchSources
 let patch_repo = {}
 let addon_info = {}
 let addon_info_deps = {}
@@ -263,6 +263,7 @@ let addon_info_deps.3348 = [3396]
 let addon_info_deps.3854 = [3396]
 let addon_info_deps.3356 = [3396, 3133, 4019]
 " webapi dependants
+let addon_info_deps.2423 = [4019]
 let addon_info_deps.4143 = [4019]
 " Neocomplcache plugins
 let addon_info_deps.3423 = [2620]
